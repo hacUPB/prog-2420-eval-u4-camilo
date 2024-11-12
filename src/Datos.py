@@ -73,7 +73,7 @@ class CSVProcessor:
             plt.show()
         else:
             print("Columna no encontrada o sin datos numéricos.")
-
+            
 
 def menu_principal():
     manager = FileManager()
